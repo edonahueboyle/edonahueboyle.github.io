@@ -30,6 +30,10 @@
   margin: 10px;
 }
 
+.byline {
+  font-style: italic;
+}
+
 .section-title {
   text-align: center;
   color: darkolivegreen;
