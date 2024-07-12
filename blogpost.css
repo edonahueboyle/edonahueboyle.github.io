@@ -37,7 +37,10 @@
 }
 
 .section-image {
+  background-color: mediumseagreen;
+  width: 600px;
   text-align: center;
+  font-style: italic;
 }
 
 .blog-post {
@@ -62,6 +65,7 @@ article {
 
 p {
   text-align: justify;
+  font-size: 18px;
   padding: 15px 100px;
   margin: 0 auto;
 }
