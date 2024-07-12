@@ -67,6 +67,13 @@ article p {
   text-align: justify;
 }
 
+article figure {
+  background-color: blanchedalmond;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
 p {
   text-align: justify;
   font-size: 18px;
