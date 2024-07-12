@@ -22,6 +22,9 @@
 
 .article {
   background-color: blanchedalmond;
+  width: 50%;
+  margin: auto;
+  text-align: justify;
 }
 
 #header-image {
