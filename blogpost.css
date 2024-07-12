@@ -20,13 +20,6 @@
   margin: 20px 50px;
 }
 
-.article {
-  background-color: blanchedalmond;
-  width: 50%;
-  margin: auto;
-  text-align: justify;
-}
-
 #header-image {
   text-align: center;
   margin: 10px;
@@ -58,6 +51,13 @@
   text-align: center;
   background-color: lightgreen'
   font-weight: bold;
+}
+
+article {
+  background-color: blanchedalmond;
+  width: 50%;
+  margin: auto;
+  text-align: justify;
 }
 
 p {
