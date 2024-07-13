@@ -50,6 +50,10 @@
   flex-align: center;
 }
 
+.section-image figcaption {
+  background-color: blanchedalmond;
+}
+
 .blog-post {
   text-align: justify;
   padding: 15px 20px;
