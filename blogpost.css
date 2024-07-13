@@ -47,6 +47,7 @@
   text-align: center;
   font-style: italic;
   display: flex;
+  flex-align: center;
 }
 
 .blog-post {
@@ -58,7 +59,7 @@
 
 .footer a:hover {
   text-align: center;
-  background-color: lightgreen'
+  background-color: lightgreen;
   font-weight: bold;
 }
 
