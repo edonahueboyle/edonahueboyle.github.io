@@ -43,7 +43,7 @@
 .section-image {
   background-color: blanchedalmond;
   width: 50%;
-  margin: 0;
+  margin: auto;
   text-align: center;
   font-style: italic;
 }
