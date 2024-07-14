@@ -55,6 +55,11 @@
   font-size: 18px;
 }
 
+.article-list {
+  width: 50%;
+  text-align: justify;
+}
+
 p {
   text-align: justify;
   padding: 15px 100px;
