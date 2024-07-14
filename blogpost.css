@@ -59,6 +59,7 @@
   padding: 15px 20px;
   margin: 0 85px;
   border: 1px solid darkolivegreen;
+  radius: 5px;
 }
 
 .footer a:hover {
