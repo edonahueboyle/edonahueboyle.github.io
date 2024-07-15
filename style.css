@@ -73,14 +73,6 @@
   align-items: center;
 }
 
-.button {
-  padding: 5px 10px;
-  margin: 5px 10px;
-  border: 1px black;
-  background-color: darkolivegreen;
-  font-size: 18px;
-}
-
 p {
   text-align: justify;
   padding: 15px 100px;
@@ -94,8 +86,10 @@ a:hover {
   font-size: 18px;
 }
 
-ul {
-  list-style-position: outside;
-  margin: 0;
-  padding: 0;
+button {
+  padding: 5px 10px;
+  margin: 5px 10px;
+  border: 1px black;
+  background-color: darkolivegreen;
+  font-size: 18px;
 }
