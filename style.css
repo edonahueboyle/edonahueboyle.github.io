@@ -67,6 +67,9 @@
 }
 
 .button-group-topic .button {
+  padding: 5px 10px;
+  background-color: darkolivegreen;
+  font-size: 18px;
 }
 
 p {
