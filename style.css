@@ -64,13 +64,21 @@
 .button-group-topic {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .button-group-topic .button {
   padding: 5px 10px;
+  margin: 5px 10px;
+  border: 1px black;
   background-color: darkolivegreen;
   font-size: 18px;
 }
+
+.button-group-city {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 p {
   text-align: justify;
