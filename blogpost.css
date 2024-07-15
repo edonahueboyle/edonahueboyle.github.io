@@ -68,6 +68,11 @@
   font-weight: bold;
 }
 
+.footer {
+  display: flex;
+  flex-align: center;
+}
+
 article p {
   background-color: blanchedalmond;
   width: 50%;
