@@ -93,3 +93,15 @@ button {
   background-color: darkolivegreen;
   font-size: 18px;
 }
+
+button a {
+  color: blanchedalmond;
+  background-color: darkolivegreen;
+  font-size: 18px;
+}
+
+button:hover,
+button a:hover {
+  color: darkolivegreen;
+  backgroundcolor: lightgreen;
+}
