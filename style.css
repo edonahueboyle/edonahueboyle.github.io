@@ -67,10 +67,22 @@
   align-items: center;
 }
 
+.button-group-topic a {
+  color: blanchedalmond;
+  background-color: darkolivegreen;
+  font-size: 18px;
+}
+
 .button-group-city {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.button-group-city a {
+  color: blanchedalmond;
+  background-color: darkolivegreen;
+  font-size: 18px;
 }
 
 p {
