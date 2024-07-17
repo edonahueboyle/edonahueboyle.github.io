@@ -44,7 +44,8 @@
   text-align: justify;
   padding: 15px 20px;
   margin: 0 85px;
-  border-radius: 1px solid darkolivegreen;
+  border: 1px solid darkolivegreen;
+  border-radius: 15px;
   font-size: 18px;
 }
 
