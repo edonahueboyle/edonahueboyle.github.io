@@ -72,6 +72,12 @@
   display: flex;
   flex-align: center;
   align-items: center;
+  color: darkolivegreen;
+  background-color: blanchedalmond;
+  border: 1px solid blanchedalmond;
+  padding: 5px 10px;
+  margin: 5px 10px;
+}
 
 article p {
   background-color: blanchedalmond;
