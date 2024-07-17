@@ -62,12 +62,6 @@
   radius: 5px;
 }
 
-.button-footer a:hover {
-  text-align: center;
-  background-color: lightgreen;
-  font-weight: bold;
-}
-
 .button-footer {
   display: flex;
   flex-align: center;
@@ -81,6 +75,18 @@
   border-radius: 5px;
   padding: 5px 10px;
   margin: 5px 10px;
+}
+
+.button-footer a {
+  color: darkolivegreen;
+  background-color: blanchedalmond;
+  font-size: 18px;
+}
+
+.button-footer a:hover {
+  text-align: center;
+  background-color: lightgreen;
+  font-weight: bold;
 }
 
 article p {
