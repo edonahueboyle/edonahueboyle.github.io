@@ -62,16 +62,16 @@
   radius: 5px;
 }
 
-.footer a:hover {
+.button-footer a:hover {
   text-align: center;
   background-color: lightgreen;
   font-weight: bold;
 }
 
-.footer {
+.button-footer {
   display: flex;
   flex-align: center;
-}
+  align-items: center;
 
 article p {
   background-color: blanchedalmond;
