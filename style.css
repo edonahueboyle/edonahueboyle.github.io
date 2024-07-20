@@ -96,6 +96,17 @@ a:hover {
   font-size: 18px;
 }
 
+.button-group-topic a:hover,
+.button-group-city a:hover {
+  padding: 5px 10px;
+  margin: 5px 10px;
+  border-radius: 15px;
+  color: darkolivegreen;
+  background-color: lightgreen;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .button-group-city a {
   padding: 5px 10px;
   margin: 5px 10px;
@@ -112,9 +123,4 @@ button {
   border-radius: 15px;
   background-color: darkolivegreen;
   font-size: 18px;
-}
-
-button:hover {
-  color: darkolivegreen;
-  backgroundcolor: lightgreen;
 }
