@@ -97,15 +97,12 @@ a:hover {
 }
 
 .button-group-topic a:hover,
-.button-group-city a:hover,
-button:hover {
+.button-group-city a:hover {
   padding: 5px 10px;
   margin: 5px 10px;
   border-radius: 15px;
   color: darkolivegreen;
   background-color: lightgreen;
-  font-size: 18px;
-  font-weight: bold;
 }
 
 .button-group-city a {
@@ -121,4 +118,12 @@ button {
   color: blanchedalmond;
   background-color: darkolivegreen;
   font-size: 18px;
+  border: none;
+}
+
+button:hover {
+  color: darkolivegreen;
+  font-weight: bold;
+  background-color: lightgreen;
+  border: none;
 }
