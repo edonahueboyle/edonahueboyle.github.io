@@ -91,6 +91,7 @@ a:hover {
   padding: 0px 0px;
   margin: 0px 0px;
   background-color: darkolivegreen;
+  border-radius: 15px;
   font-size: 18px;
 }
 
@@ -98,6 +99,7 @@ a:hover {
   padding: 0px 0px;
   margin: 0px 0px;
   background-color: darkolivegreen;
+  border-radius: 15px;
   font-size: 18px;
 }
 
