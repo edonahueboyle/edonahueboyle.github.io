@@ -51,8 +51,13 @@
   flex-align: center;
 }
 
+.section-image figure {
+  max-width: 80%;
+}
+
 .section-image figcaption {
   background-color: blanchedalmond;
+  max-width: 80%;
 }
 
 .blog-post {
