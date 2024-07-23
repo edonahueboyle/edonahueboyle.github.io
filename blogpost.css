@@ -43,6 +43,7 @@
 .section-image {
   background-color: blanchedalmond;
   width: 50%;
+  min-width: 600px;
   margin: auto;
   text-align: center;
   font-style: italic;
@@ -85,6 +86,7 @@
 article p {
   background-color: blanchedalmond;
   width: 50%;
+  min-width: 600px;
   margin: auto;
   text-align: justify;
 }
@@ -92,6 +94,7 @@ article p {
 article figure {
   background-color: blanchedalmond;
   width: 50%;
+  min-width: 600px;
   margin: auto;
   text-align: center;
 }
