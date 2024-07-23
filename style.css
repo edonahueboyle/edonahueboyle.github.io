@@ -96,15 +96,6 @@ a:hover {
   font-size: 18px;
 }
 
-.button-group-topic a:hover,
-.button-group-city a:hover {
-  padding: 5px 10px;
-  margin: 5px 10px;
-  border-radius: 15px;
-  color: darkolivegreen;
-  background-color: lightgreen;
-}
-
 .button-group-city a {
   padding: 5px 10px;
   margin: 5px 10px;
@@ -114,6 +105,26 @@ a:hover {
   font-size: 18px;
 }
 
+.button-group-topic a:hover,
+.button-group-city a:hover {
+  padding: 5px 10px;
+  margin: 5px 10px;
+  border-radius: 15px;
+  color: darkolivegreen;
+  background-color: lightgreen;
+}
+
+.button-group-topic a:hover,
+.button-group-city a:hover, 
+button:hover {
+  padding: 5px 10px;
+  margin: 5px 10px;
+  border-radius: 15px;
+  color: darkolivegreen;
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
 button {
   color: blanchedalmond;
   background-color: darkolivegreen;
@@ -121,9 +132,3 @@ button {
   border: none;
 }
 
-button:hover {
-  color: darkolivegreen;
-  font-weight: bold;
-  background-color: lightgreen;
-  border: none;
-}
