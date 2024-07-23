@@ -114,9 +114,7 @@ a:hover {
   background-color: lightgreen;
 }
 
-.button-group-topic a:hover,
-.button-group-city a:hover, 
-button:hover {
+.nav-button:hover {
   color: darkolivegreen;
   background-color: lightgreen;
   font-weight: bold;
