@@ -117,9 +117,6 @@ a:hover {
 .button-group-topic a:hover,
 .button-group-city a:hover, 
 button:hover {
-  padding: 5px 10px;
-  margin: 5px 10px;
-  border-radius: 15px;
   color: darkolivegreen;
   background-color: lightgreen;
   font-weight: bold;
