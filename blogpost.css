@@ -103,6 +103,14 @@ article p {
   text-align: justify;
 }
 
+article a {
+  background-color: blanchedalmond;
+}
+
+article em {
+  Background-color: blanchedalmond;
+}
+
 article figure {
   background-color: blanchedalmond;
   width: 50%;
