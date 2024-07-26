@@ -76,6 +76,14 @@
   align-items: center;
 }
 
+.blog-post a {
+  background-color: blanchedalmond;
+}
+
+.blog-post em {
+  background-color: blanchedalmond;
+}
+
 .button-footer a {
   color: darkolivegreen;
   background-color: blanchedalmond;
