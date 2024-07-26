@@ -123,8 +123,8 @@ button {
   background-color: blanchedalmond;
   border: 1px solid blanchedalmond;
   border-radius: 5px;
-  padding: 0px 0px;
-  margin: 0px 0px;
+  padding: 5px 10px;
+  margin: 5px 10px;
 }
 
 a:hover {
