@@ -116,8 +116,8 @@ a:hover {
 }
 
 button {
-  padding: 5px 10px;
-  margin: 5px 10px;
+  padding: 0px 0px;
+  margin: 0px 0px;
   color: blanchedalmond;
   background-color: darkolivegreen;
   font-size: 18px;
