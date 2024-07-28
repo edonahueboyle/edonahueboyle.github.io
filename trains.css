@@ -64,6 +64,8 @@
 
 .grid-container {
   display: inline-grid;
+  column-gap: 10px;
+  row-gap: 20px;
 }
 
 p {
