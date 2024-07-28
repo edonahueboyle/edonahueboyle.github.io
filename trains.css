@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+  background-color: blanchedalmond;
+  box-sizing: border-box;
+}
+
+#article-title {
+  color: darkgreen;
+  text-align: center;
+  font-family: georgia;
+  font-size: 48px;
+  margin: 20px 30px;
+}
+
+#subtitle {
+  font-size: 28px;
+  color: darkgreen;
+  margin: 20px 50px;
+}
+
+#header-image {
+  text-align: center;
+  margin: 10px;
+}
+
+#header-caption {
+  text-align: center;
+  margin: 10px;
+}
+
+.section-title {
+  text-align: center;
+  color: darkolivegreen;
+  margin: 20px 30px;
+}
+
+.section-image {
+  text-align: center;
+}
+
+.blog-post {
+  text-align: justify;
+  padding: 15px 20px;
+  margin: 0 85px;
+  border: 3px solid darkolivegreen;
+  border-radius: 15px;
+  font-size: 18px;
+}
+
+.footer a:hover {
+  text-align: center;
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.article-list {
+  width: 50%;
+  text-align: justify;
+  font-size: 18px;
+}
+
+.grid-container {
+  display: inline-grid;
+}
+
+p {
+  text-align: justify;
+  padding: 15px 100px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+a:hover {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nav-button:hover {
+  color: darkolivegreen;
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+button {
+  padding: 0px 0px;
+  margin: 0px 0px;
+  color: blanchedalmond;
+  background-color: darkolivegreen;
+  font-size: 18px;
+  border: 1px solid darkolivegreen;
+  border-radius: 15px;
