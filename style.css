@@ -107,14 +107,18 @@ a:hover {
 .button-group-city a:hover {
   color: darkolivegreen;
   background-color: lightgreen;
+  font-weight: bold;
+  cursor: pointer;
 }
 
+/*
 .nav-button:hover {
   color: darkolivegreen;
   background-color: lightgreen;
   font-weight: bold;
   cursor: pointer;
 }
+*/
 
 button {
   padding: 10px 15px;
