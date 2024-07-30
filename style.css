@@ -105,14 +105,6 @@ a:hover {
   font-size: 18px;
 }
 
-.button-group-topic a:hover,
-.button-group-city a:hover {
-  color: darkolivegreen;
-  background-color: lightgreen;
-  font-weight: bold;
-  cursor: pointer;
-}
-
 .nav-button:hover {
   color: darkolivegreen;
   background-color: lightgreen;
