@@ -64,12 +64,14 @@
 
 .button-group-topic {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
 
 .button-group-city {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
