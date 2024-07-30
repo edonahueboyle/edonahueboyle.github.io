@@ -127,15 +127,6 @@ p {
   margin: 0 auto;
 }
 
-button {
-  color: darkolivegreen;
-  background-color: blanchedalmond;
-  border: 1px solid blanchedalmond;
-  border-radius: 5px;
-  padding: 5px 10px;
-  margin: 5px 10px;
-}
-
 a:hover {
   background-color: lightgreen;
   font-weight: bold;
