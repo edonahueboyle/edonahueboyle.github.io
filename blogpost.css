@@ -144,7 +144,7 @@ a:hover {
 .button-footer a {
   padding: 0px 0px;
   margin: 5px 10px;
-  background-color: darkolivegreen;
+  background-color: blanchedalmond;
   border-radius: 15px;
   font-size: 18px;
 }
@@ -159,9 +159,9 @@ a:hover {
 button {
   padding: 10px 15px;
   margin: 0px 0px;
-  color: blanchedalmond;
-  background-color: darkolivegreen;
+  color: darkolivegreen;
+  background-color: blanchedalmond;
   font-size: 18px;
-  border: 1px solid darkolivegreen;
+  border: 1px solid blanchedalmond;
   border-radius: 15px;
 }
