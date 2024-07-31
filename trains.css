@@ -73,6 +73,7 @@
 .grid-title-1 {
   grid-column: 1 / 3;
   grid-row: 1 / 2;
+}
 
 .grid-image-1 {
   grid-column: 1 / 2;
