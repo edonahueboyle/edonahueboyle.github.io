@@ -98,6 +98,36 @@
   grid-column: 2 / 3;
   grid-row: 4 / 5;
 }
+
+.grid-title-3 {
+  grid-column: 1 / 3;
+  grid-row: 5 / 6;
+}
+
+.grid-image-3 {
+  grid-column: 1 / 2;
+  grid-row: 6 / 7;
+}
+
+.grid-description-3 {
+  grid-column: 2 / 3;
+  grid-row: 6 / 7;
+}
+
+.grid-title-4 {
+  grid-column: 1 / 3;
+  grid-row: 7 / 8;
+}
+
+.grid-description-4 {
+  grid-column: 1 / 2;
+  grid-row: 8 / 9;
+}
+
+.grid-image-4 {
+  grid-column: 2 / 3;
+  grid-row: 8 / 9;
+}
   
 p {
   text-align: justify;
