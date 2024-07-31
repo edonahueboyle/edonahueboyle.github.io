@@ -70,6 +70,20 @@
   grid-template-rows: 30px 300px 30px 300px 30px 300px 30px 300px;
 }
 
+.grid-title-1 {
+  grid-column: 1 / 3;
+  grid-row: 1 / 2;
+
+.grid-image-1 {
+  grid-column: 1 / 2;
+  grid-row: 2 / 3;
+}
+
+.grid-description-1 {
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+}
+
 p {
   text-align: justify;
   padding: 15px 100px;
