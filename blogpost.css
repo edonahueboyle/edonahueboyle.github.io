@@ -84,6 +84,10 @@
   background-color: blanchedalmond;
 }
 
+.blog-post strong {
+  background-color: blanchedalmond;
+}
+
 .button-footer a {
   color: darkolivegreen;
   background-color: blanchedalmond;
@@ -117,7 +121,7 @@ article figure {
   width: 50%;
   min-width: 600px;
   margin: auto;
-  text-align: left;
+  text-align: center;
 }
 
 p {
