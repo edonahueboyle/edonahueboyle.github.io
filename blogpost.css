@@ -101,7 +101,7 @@ article p {
   width: 50%;
   min-width: 600px;
   margin: auto;
-  text-align: justify;
+  text-align: left;
 }
 
 article a {
@@ -117,7 +117,7 @@ article figure {
   width: 50%;
   min-width: 600px;
   margin: auto;
-  text-align: center;
+  text-align: left;
 }
 
 p {
@@ -147,6 +147,19 @@ a:hover {
   cursor: pointer;
 }
 
+.extra-content {
+  display: flex;
+  flex-align: center;
+  align-items: center;
+  wrap: flex-wrap;
+}
+
+.read-more {
+  color: blanchedalmond;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 button {
   padding: 10px 15px;
   margin: 0px 0px;
@@ -156,3 +169,4 @@ button {
   border: 1px solid blanchedalmond;
   border-radius: 15px;
 }
+
