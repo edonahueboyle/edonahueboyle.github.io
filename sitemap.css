@@ -1,1 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+  background-color: darkseagreen;
+  box-sizing: border-box;
+}
+
+#article-title {
+  color: blanchedalmond;
+  text-align: center;
+  font-family: georgia;
+  font-size: 48px;
+  margin: 20px 30px;
+}
+
+.button-footer a {
+  padding: 0px 0px;
+  margin: 5px 10px;
+  background-color: blanchedalmond;
+  border-radius: 15px;
+  font-size: 18px;
+}
+
+.nav-button:hover {
+  color: darkolivegreen;
+  background-color: lightgreen;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.nav-button {
+  display: flex;
+  flex-align: center;
+  align-items: center;
+  wrap: flex-wrap;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 0px 0px;
+  color: darkolivegreen;
+  background-color: blanchedalmond;
+  font-size: 18px;
+  border: 1px solid blanchedalmond;
+  border-radius: 15px;
+}
 
