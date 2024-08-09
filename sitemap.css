@@ -19,10 +19,18 @@
   display: inline-block;
 }
 
+.dropdown-year:hover .dropdown-content-year {
+  display: block;
+}
+
 .dropdown-content-year {
   display: none;
   position: absolute;
   z-index: 1;
+}
+
+.dropdown-content-year: hover .dropdown-content-month {
+  display: block;
 }
 
 .dropdown-content-month {
