@@ -70,7 +70,7 @@
 }
 
 .button-footer button {
-  margin: auto;
+  margin: 50%;
   display: flex;
   flex-align: center;
   align-items: center;
@@ -129,7 +129,7 @@ a:hover {
 }
 
 .button-footer a {
-  padding: 0px 0px;
+  padding: 5px 10px;
   margin: 5px 10px;
   background-color: blanchedalmond;
   border-radius: 15px;
