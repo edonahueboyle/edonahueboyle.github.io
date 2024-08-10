@@ -19,7 +19,7 @@
   display: inline-block;
 }
 
-.dropdown-year:hover .dropdown-content-year {
+.dropdown-year button:hover .dropdown-content-year {
   display: block;
 }
 
@@ -29,7 +29,7 @@
   z-index: 1;
 }
 
-.dropdown-content-year: hover .dropdown-content-month {
+.dropdown-content-year button:hover .dropdown-content-month {
   display: block;
 }
 
