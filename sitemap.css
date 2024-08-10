@@ -14,37 +14,9 @@
   margin: 20px 30px;
 }
 
-.dropdown-year {
-  position: relative;
+.dropdown {
   display: inline-block;
-}
-
-.dropbtn-year:hover {
-  cursor: pointer;
-}
-
-.dropbtn-year:hover .dropdown-content-year {
-  display: block;
-}
-
-.dropdown-content-year {
-  display: none;
-  position: absolute;
-  z-index: 1;
-}
-
-.dropbtn-month:hover {
-  cursor: pointer;
-}
-
-.dropbtn-month:hover .dropdown-content-month {
-  display: block;
-}
-
-.dropdown-content-month {
-  display: none;
-  position: absolute;
-  z-index: 1;
+  position: relative;
 }
 
 .button-footer a {
