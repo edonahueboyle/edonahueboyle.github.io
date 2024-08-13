@@ -64,6 +64,7 @@
   flex-align: center;
   align-items: center;
   wrap: flex-wrap;
+  justify-items: center;
 }
 
 button {
