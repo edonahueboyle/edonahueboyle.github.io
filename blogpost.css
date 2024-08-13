@@ -147,6 +147,7 @@ a:hover {
   display: flex;
   flex-align: center;
   align-items: center;
+  justify-items: center;
   wrap: flex-wrap;
 }
 
