@@ -34,6 +34,14 @@
   text-align: center;
   color: darkolivegreen;
   margin: 20px 30px;
+  font-size: 24px;
+}
+
+.section-title-small {
+  text-align: center;
+  color: darkolivegreen;
+  margin: 20px 30px;
+  font-size: 18px;
 }
 
 .section-image {
