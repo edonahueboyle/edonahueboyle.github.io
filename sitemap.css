@@ -14,6 +14,13 @@
   margin: 20px 30px;
 }
 
+.section-title {
+  color: blanchedalmond;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 24px;
+}
+
 .dropdown {
   display: inline-block;
   position: relative;
