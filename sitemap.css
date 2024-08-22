@@ -28,6 +28,10 @@
   grid-gap: 20px;
 }
 
+.description {
+  text-align: center;
+}
+
 .dropdown {
   display: inline-block;
   position: relative;
