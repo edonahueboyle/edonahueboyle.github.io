@@ -74,6 +74,12 @@
   justify-items: center;
 }
 
+a:hover {
+  font-weight: bold;
+  background-color: lightgreen;
+  color: darkolivegreen;
+}
+
 button {
   padding: 10px 15px;
   margin: 0px 0px;
