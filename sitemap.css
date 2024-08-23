@@ -85,6 +85,10 @@
   justify-items: center;
 }
 
+p {
+  color: blanchedalmond;
+}
+
 a:hover {
   font-weight: bold;
   background-color: lightgreen;
