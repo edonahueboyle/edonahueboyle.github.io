@@ -85,6 +85,12 @@
   justify-items: center;
 }
 
+.thumbnail {
+  height: auto;
+  max-width: 30%;
+  align-items: center;
+}
+
 p {
   color: blanchedalmond;
 }
