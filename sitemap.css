@@ -21,13 +21,6 @@
   font-size: 24px;
 }
 
-.container-july {
-  display: grid;
-  grid-template-columns: 40% 40%;
-  grid-auto-rows: 3em;
-  grid-gap: 20px;
-}
-
 .description {
   text-align: center;
 }
